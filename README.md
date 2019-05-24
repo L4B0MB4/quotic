@@ -1,6 +1,6 @@
 # Quotic
 
-Creates pictures with quotes for my personal whatsapp status
+Creates pictures with quotes for whatsapp status
 
 ## Why ?
 
