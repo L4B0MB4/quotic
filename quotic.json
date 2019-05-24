@@ -1,0 +1,9 @@
+{
+  "brightness": -0.4,
+  "gaussianFront": 5,
+  "gaussianTogether": 5,
+  "imageWidth": 750,
+  "imageHeight": 1200,
+  "outputDir": "./images/",
+  "inputFile": "./photo.PNG"
+}

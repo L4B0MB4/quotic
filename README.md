@@ -1,2 +1,3 @@
-# quotic
-Creates pictures with quotes  for my personal whatsapp status
+# Quotic
+
+Creates pictures with quotes for my personal whatsapp status
