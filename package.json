@@ -1,14 +1,17 @@
 {
   "name": "quotic",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creates pictures with quotes for whatsapp status",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "picture",
+    "quote",
+    "jimp",
+    "whatsapp",
+    "status"
+  ],
+  "author": "L4B0MB4",
+  "license": "MIT",
   "dependencies": {
     "jimp": "^0.6.4"
   }
