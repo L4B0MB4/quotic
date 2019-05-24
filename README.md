@@ -8,4 +8,4 @@ I share videos of my favourite bands in my whatsapp status every day. These vide
 
 ## Example
 
-![Example Image](https://raw.githubusercontent.com/username/quotic/master/examples/fivefingerdeathpunch.png)
+![Example Image](https://github.com/L4B0MB4/quotic/blob/master/examples/fivefingerdeathpunch.png)
