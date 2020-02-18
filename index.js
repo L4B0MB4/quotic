@@ -34,7 +34,7 @@ async function start(title, quote) {
   await background.brightness(config.brightness);
   await background.gaussian(config.gaussianTogether);
   await addQuotationAndTitle(background, fontLarge, title, quote);
-  background.write(config.outputDir + title.replace(/ /g, "").toLowerCase() + ".png");
+  background.write(path.join(config.outputDir, title.replace(/ /g, "").toLowerCase() + "_" + quote.replace(/ /g, "").toLowerCase() + ".png"));
 }
 
 async function addQuotationAndTitle(background, fontLarge, title, quote) {
