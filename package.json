@@ -1,8 +1,14 @@
 {
-  "name": "quotic",
+  "name": "@l4b0mb4/quotic",
   "version": "1.0.0",
   "description": "Creates pictures with quotes for whatsapp status",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "url": "git://github.com/l4b0mb4/quotic.git"
+  },
   "keywords": [
     "picture",
     "quote",
