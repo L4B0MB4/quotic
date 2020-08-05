@@ -19,6 +19,6 @@
   "author": "L4B0MB4",
   "license": "MIT",
   "dependencies": {
-    "jimp": "^0.6.4"
+    "jimp": "^0.6.8"
   }
 }
